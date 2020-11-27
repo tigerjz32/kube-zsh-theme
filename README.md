@@ -1,6 +1,8 @@
 # kube-zsh-theme
 An ohmyzsh theme, intended to work with Kubernetes kubectl context. This theme adapts your console to the MacOS.
 
+![Kube Zsh Theme](assets/image1.jpg)
+
 You can find this theme in the official <a href="https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes#macos-terminal">**Github Wiki**</a> of Oh My ZSH.
 - Tested on MacOS
 
