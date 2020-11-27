@@ -15,7 +15,7 @@ You can find this theme in the official <a href="https://github.com/ohmyzsh/ohmy
 ## Installation
 1. Write in your terminal `git clone https://github.com/tigerjz32/kube-zsh-theme.git/ $ZSH_CUSTOM/themes/kube-zsh-theme`
 1. Open your `.zshrc`
-1. Change your `ZSH_THEME` to `kube-zsh-theme/kube-zsh-theme`
+1. Change your `ZSH_THEME` to `kube-zsh-theme/kube`
 
 ## Format
 `[CURRENT_TIME][CURRENT_KUBECTL_CONTEXT][CURRENT_DIR][GIT_PRMOPT_INFO]➭$`
