@@ -7,12 +7,12 @@ You can find this theme in the official <a href="https://github.com/ohmyzsh/ohmy
 - Tested on MacOS
 
 ## Features
-- Shows current time
-- Shows current kubectl context
-- Shows current dir
-- Shows current Git branch
-- Shows arrow to differenciate input vs prompt
-- Users different colors for readibility
+- shows the current time
+- shows current kubectl context
+- shows current dir
+- shows current Git branch
+- shows an arrow to differentiate input vs prompt
+- uses different colors for readability
 
 ## Installation
 1. Write in your terminal `git clone https://github.com/tigerjz32/kube-zsh-theme.git/ $ZSH_CUSTOM/themes/kube-zsh-theme`
